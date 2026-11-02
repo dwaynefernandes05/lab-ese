@@ -1,0 +1,23 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+nltk
+wordcloud
+torch
+torchvision
+transformers
+peft
+sentencepiece
+sentence-transformers
+streamlit
+lime
+imageio-ffmpeg
+# optional (exp10 real image/music models; heavy on CPU)
+# diffusers
+# accelerate
